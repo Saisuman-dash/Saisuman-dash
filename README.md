@@ -26,7 +26,7 @@ I enjoy building web experiences that combine simplicity with strong interaction
 
 ---
 
-### GitHub Stats (Minimal)
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saisuman-dash&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -39,23 +39,40 @@ I enjoy building web experiences that combine simplicity with strong interaction
 
 ---
 
+### 🧠 Animated Skill Graph
+
+<p align="center">
+  <img src="https://cr-skills-chart-widget.vercel.app/api?username=Saisuman-dash&skills=React,TailwindCSS,TypeScript,Node.js,MongoDB,Firebase,HTML,CSS,JavaScript,C++,Python&theme=dark" width="70%" />
+</p>
+
+---
+
+### 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Saisuman-dash/Saisuman-dash/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
 ### Projects
 
 - [`Reading Tracker`](https://github.com/Saisuman-dash/reading-tracker) — GitHub-like streaks, stats, and session notes for your reading habit  
 - [`Carrom Game`](https://github.com/Saisuman-dash/carrom-game) — Multiplayer web carrom game with physics and clean visuals  
 
-<!-- (Hidden surprise project is safe 😉) -->
+<!-- (Surprise project not revealed 🤫) -->
 
 ---
 
-### Get in Touch
+### Contact
 
-- 📫 `saisumandash0@gmail.com`  
-- 🔗 [linkedin.com/in/saisumandash](https://linkedin.com/in/saisumandash)  
-- 📱 `+91 8984306110`
+- 📫 Email: `saisumandash0@gmail.com`  
+- 🔗 [LinkedIn](https://linkedin.com/in/saisumandash)  
+- 📱 Phone: `+91 8984306110`
 
 ---
 
 <p align="center" style="font-style: italic; color: gray;">
   “Design is not just what it looks like and feels like. Design is how it works.” — Steve Jobs
 </p>
+
