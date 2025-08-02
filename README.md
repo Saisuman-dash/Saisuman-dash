@@ -1,60 +1,61 @@
 <h2 align="center" style="font-weight: 500;">Saisuman Dash</h2>
-<p align="center">Full-Stack Developer · Creative Coder · UI/UX Enthusiast</p>
+<p align="center" style="font-weight: 300;">Full-Stack Developer · Creative Coder · UI/UX Enthusiast</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=380&lines=Building+dark+UIs+with+soul.;React%2C+Tailwind%2C+TypeScript.;Loving+motion+and+minimalism.;Clean+code+%2B+clean+design." alt="Typing animation" />
+</p>
 
 ---
 
-### 🧭 About Me
+### About Me
 
-I'm a 3rd year IT student at **OUTR Bhubaneswar**, passionate about building user-focused digital experiences.  
-I value clarity in design, clean code, and meaningful functionality.
+I'm a 3rd year IT student at **OUTR Bhubaneswar** with a deep interest in crafting beautiful interfaces and useful tools.  
+I enjoy building web experiences that combine simplicity with strong interaction design.
 
-- 🛠️ Working with React, TypeScript, Tailwind, Node.js
-- ⚙️ Exploring: performance, motion design, realtime apps
-- 🎯 Goal: Build products that feel _as good as they look_
-
----
-
-### 🔧 Tech Stack
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,ts,js,nodejs,express,mongodb,firebase,cpp,python,vscode,git&perline=8" />
-</div>
+- Focused on **frontend ecosystems** with React, TailwindCSS, TypeScript  
+- Currently exploring **motion design**, **game mechanics**, and **productivity tools**  
+- Passionate about **clean code**, calm UI, and purposeful UX decisions
 
 ---
 
-### 📈 GitHub Insights
+### Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,ts,js,nodejs,express,mongodb,firebase,cpp,python,git,github,vscode&perline=8" />
+</p>
+
+---
+
+### GitHub Stats (Minimal)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saisuman-dash&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saisuman-dash&layout=compact&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saisuman-dash&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saisuman-dash&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saisuman-dash&theme=transparent&hide_border=true" />
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saisuman-dash&theme=tokyonight&hide_border=true" width="60%" />
 </div>
 
 ---
 
-### 📂 Projects
+### Projects
 
-- [`Reading Tracker`](https://github.com/Saisuman-dash/reading-tracker) – A daily reading streak tracker with calendar heatmap and stats  
-- [`Carrom Game`](https://github.com/Saisuman-dash/carrom-game) – Multiplayer physics-based carrom game in the browser  
+- [`Reading Tracker`](https://github.com/Saisuman-dash/reading-tracker) — GitHub-like streaks, stats, and session notes for your reading habit  
+- [`Carrom Game`](https://github.com/Saisuman-dash/carrom-game) — Multiplayer web carrom game with physics and clean visuals  
 
-<!-- Placeholder for your surprise project -->
-<!-- Future project(s) will appear here -->
+<!-- (Hidden surprise project is safe 😉) -->
 
 ---
 
-### 📬 Contact
+### Get in Touch
 
-If you're looking to collaborate, discuss ideas, or just connect:
-
-- Email: `saisumandash0@gmail.com`  
-- LinkedIn: [linkedin.com/in/saisumandash](https://linkedin.com/in/saisumandash)  
-- Phone: `+91 8984306110`  
+- 📫 `saisumandash0@gmail.com`  
+- 🔗 [linkedin.com/in/saisumandash](https://linkedin.com/in/saisumandash)  
+- 📱 `+91 8984306110`
 
 ---
 
 <p align="center" style="font-style: italic; color: gray;">
-  “Good design is obvious. Great design is transparent.” — Joe Sparano
+  “Design is not just what it looks like and feels like. Design is how it works.” — Steve Jobs
 </p>
