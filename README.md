@@ -1,102 +1,60 @@
-<h1 align="center">👋 Hey there, I'm Saisuman Dash</h1>
-<h3 align="center">💻 Full-Stack Developer | 🧠 Problem Solver | 🛠️ UI/UX Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=450&lines=Crafting+cool+products+in+React+%26+Tailwind.;Obsessed+with+dark+UIs+%2B+animations.;Building+interesting+tools+%26+games.;Let%27s+build+something+legendary." alt="Typing SVG" />
-</p>
+<h2 align="center" style="font-weight: 500;">Saisuman Dash</h2>
+<p align="center">Full-Stack Developer · Creative Coder · UI/UX Enthusiast</p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saisuman-dash&label=Profile+Views&color=0e75b6&style=flat" alt="Saisuman-dash" />
-</p>
+### 🧭 About Me
+
+I'm a 3rd year IT student at **OUTR Bhubaneswar**, passionate about building user-focused digital experiences.  
+I value clarity in design, clean code, and meaningful functionality.
+
+- 🛠️ Working with React, TypeScript, Tailwind, Node.js
+- ⚙️ Exploring: performance, motion design, realtime apps
+- 🎯 Goal: Build products that feel _as good as they look_
 
 ---
 
-### 🔥 About Me
+### 🔧 Tech Stack
 
-- 🎓 3rd year IT student at **OUTR Bhubaneswar**
-- ⚙️ Currently working on creative projects in full-stack dev
-- ✨ Focused on **aesthetic**, **motion**, and **functionality**
-- 🧠 I love dark themes, clean code, and physics-based fun
-- 📫 Email: `saisumandash0@gmail.com`
-- 📱 Phone: `+91 8984306110`
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,ts,js,nodejs,express,mongodb,firebase,cpp,python,vscode,git&perline=8" />
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+### 📈 GitHub Insights
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,ts,js,html,css,vite,nodejs,express,mongodb,firebase,cpp,python,git,github,vscode,aftereffects,premierepro&perline=9" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saisuman-dash&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saisuman-dash&layout=compact&theme=transparent&hide_border=true" width="48%" />
+</div>
 
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saisuman-dash&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saisuman-dash&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saisuman-dash&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saisuman-dash&theme=transparent&hide_border=true" />
+</div>
 
 ---
 
-### 🧠 AI Skill Heatmap
+### 📂 Projects
 
-<p align="center">
-  <img src="https://cr-skills-chart-widget.vercel.app/api?username=Saisuman-dash&skills=React,TailwindCSS,TypeScript,Node.js,MongoDB,Firebase,HTML,CSS,JavaScript,C++,Python&theme=dark" />
-</p>
+- [`Reading Tracker`](https://github.com/Saisuman-dash/reading-tracker) – A daily reading streak tracker with calendar heatmap and stats  
+- [`Carrom Game`](https://github.com/Saisuman-dash/carrom-game) – Multiplayer physics-based carrom game in the browser  
 
----
-
-### 🟩 3D Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saisuman-dash&theme=react-dark&area=true&hide_border=true&custom_title=Saisuman%20Dash's%20Contribution%20Graph" />
-</p>
+<!-- Placeholder for your surprise project -->
+<!-- Future project(s) will appear here -->
 
 ---
 
-### 🐍 Animated Contribution Snake
+### 📬 Contact
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Saisuman-dash/Saisuman-dash/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+If you're looking to collaborate, discuss ideas, or just connect:
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 📚 [Reading Tracker](https://github.com/Saisuman-dash/reading-tracker) | GitHub-like heatmap to track daily reading | TypeScript, Tailwind, Recharts |
-| 🕹️ [Carrom Game](https://github.com/Saisuman-dash/carrom-game) | Physics-based, minimal multiplayer board game | Matter.js, JavaScript |
-
-<!-- Surprise project not listed yet 😉 -->
+- Email: `saisumandash0@gmail.com`  
+- LinkedIn: [linkedin.com/in/saisumandash](https://linkedin.com/in/saisumandash)  
+- Phone: `+91 8984306110`  
 
 ---
 
-### 📬 Let's Connect
-
-<p align="center">
-  <a href="mailto:saisumandash0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/saisumandash"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/saisuman_dash"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
-
----
-
-### 🧠 Quote to Recruiters
-
-> "I don't just code, I craft interfaces that feel alive."  
-> **Let me turn your ideas into beautiful, high-performance products.**
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<p align="center" style="font-style: italic; color: gray;">
+  “Good design is obvious. Great design is transparent.” — Joe Sparano
 </p>
